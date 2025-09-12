@@ -8,9 +8,11 @@
 
 ## 課程筆記區
 
+[9.08_課程心得](https://github.com/Yuan-Chun-Chih/9.08)
+
 ## 作業連結區
 
-[9.08_個人網站](https://github.com/Yuan-Chun-Chih/9.08)
+[9.08_個人網站](https://github.com/Yuan-Chun-Chih/Self_Website)
 
 ## 專題連結區
 
