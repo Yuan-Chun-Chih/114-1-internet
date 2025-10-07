@@ -10,6 +10,8 @@
 
 [9.08_課程心得](https://github.com/Yuan-Chun-Chih/9.08)
 
+[9.30_課程筆記](https://github.com/Yuan-Chun-Chih/9-30)
+
 ## 作業連結區
 
 [9.08_個人網站](https://github.com/Yuan-Chun-Chih/Self_Website)
