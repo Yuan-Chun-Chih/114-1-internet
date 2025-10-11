@@ -14,7 +14,8 @@
 
 ## 作業連結區
 
-[9.08_個人網站](https://github.com/Yuan-Chun-Chih/Self_Website)
+[9.08_個人網站](https://yuan-chun-chih.github.io/)
+
 
 ## 專題連結區
 
