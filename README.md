@@ -6,16 +6,21 @@
 姓名：茬遠淳           
 系級：科技系117級              
 
+## 作業連結區
+
+[HW_1_9.08_個人網站](https://yuan-chun-chih.github.io/)
+
+[HW_2_9.08_說明影片](https://youtu.be/0EjNNqxyA70)
+
+[AItest介面及功能更動](https://github.com/Yuan-Chun-Chih/tpAPIwb/blob/master/app/(tabs)/AItest.tsx)
+
 ## 課程筆記區
 
 [9.08_課程心得](https://github.com/Yuan-Chun-Chih/9.08)
 
 [9.30_課程筆記](https://github.com/Yuan-Chun-Chih/9-30)
 
-## 作業連結區
-
-[9.08_個人網站](https://yuan-chun-chih.github.io/)
-
+[10.07課程筆記](https://github.com/Yuan-Chun-Chih/10-7)
 
 ## 專題連結區
 
