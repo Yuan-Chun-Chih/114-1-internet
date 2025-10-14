@@ -22,6 +22,8 @@
 
 [10.07課程筆記](https://github.com/Yuan-Chun-Chih/10-7)
 
+[10.14課程筆記](https://github.com/Yuan-Chun-Chih/10-14)
+
 ## 專題連結區
 
 ## About
