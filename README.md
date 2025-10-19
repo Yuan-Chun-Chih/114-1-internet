@@ -10,9 +10,11 @@
 
 [HW_1_9.08_個人網站](https://yuan-chun-chih.github.io/)
 
-[HW_2_9.08_說明影片](https://youtu.be/0EjNNqxyA70)
+[HW_2_10.07_說明影片](https://youtu.be/0EjNNqxyA70)
 
 [AItest介面及功能更動](https://github.com/Yuan-Chun-Chih/tpAPIwb/blob/master/app/(tabs)/AItest.tsx)
+
+[HW_3_10.14_說明影片](https://youtu.be/s-5FwSS30o4)
 
 ## 課程筆記區
 
