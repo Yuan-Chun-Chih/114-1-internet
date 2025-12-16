@@ -35,9 +35,10 @@
 
 組員：茬遠淳41330063A 溫竣閔41371225H 葉揚41371126H
 
-［網站網址］（https://story-platform-f1dc7.web.app/）
+[網站網址](https://story-platform-f1dc7.web.app/)
 
-［解說影片］（https://youtu.be/WUuPJaYxiDg）
+[解說影片](https://youtu.be/WUuPJaYxiDg)
 
-［專題程式碼GitHub Repo連結］（https://github.com/Yuan-Chun-Chih/story-platform-vite）
+[專題程式碼GitHub Repo連結](https://github.com/Yuan-Chun-Chih/story-platform-vite)
+
 ## About
